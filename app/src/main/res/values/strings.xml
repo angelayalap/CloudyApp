@@ -1,0 +1,18 @@
+
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name" translatable="false">Cloudy</string>
+    <string name="action_refresh">Acualizar</string>
+    <string name="error_message">"Algo salio mal, intenta actualizar "</string>
+    <string name="action_map">Mapa</string>
+    <string name="action_share">Compartir</string>
+
+    <!-- Formatos de Fechas -->
+    <string name="today">Hoy</string>
+    <string name="tomorrow">Mañana</string>
+    <string name="format_full_friendly_date"><xliff:g id="month">%1$s</xliff:g>, <xliff:g id="day">%2$s</xliff:g></string>
+
+    <!-- Formatos de Temperaturas-->
+    <string name="format_temperature_celsius"><xliff:g id="temp">%1.0f</xliff:g>\u00B0C</string>
+    <string name="format_temperature_fahrenheit"><xliff:g id="temp">%1.0f</xliff:g>\u00B0F</string>
+
+</resources>
